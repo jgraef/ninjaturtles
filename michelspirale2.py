@@ -1,5 +1,4 @@
 from ninjaturtles import NinjaTurtle
-from turtle import*
 import pygame
 from baum import ast
 from math import sin,cos,tan
